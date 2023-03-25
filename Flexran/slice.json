@@ -1,0 +1,25 @@
+{
+    "dl": {
+        "algorithm": "Static",
+        "slices": [
+            {
+                "id": 0,
+                "scheduler": "round_robin_dl",
+                "static": {
+                    "posLow": 12,
+                    "posHigh": 16
+                }
+            },
+            {
+                "id": 2,
+                "static": {
+                    "posLow": 1,
+                    "posHigh": 11
+                }
+            }
+        ]
+    },
+    "ul": {
+        "algorithm": "None"
+    }
+}
