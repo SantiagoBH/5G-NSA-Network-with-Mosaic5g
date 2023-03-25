@@ -1,0 +1,7 @@
+{
+    "dlBandwidth": 25,
+    "ulBandwidth": 25,
+    "dlFreq": 2650,
+    "ulFreq": 2530,
+    "eutraBand": 7
+}
