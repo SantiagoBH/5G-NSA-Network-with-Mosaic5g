@@ -5,6 +5,4 @@ Currently, there are several alternatives to deploy an LTE, 5G Standalone (5G SA
 
 For this project, the methodologies and functionalities of the technologies deployed by the Radio Access Networks (RAN) are considered for the analysis of the behavior of the video streaming service through open source software such as OAI-RAN and FlexRAN. In addition, the implementation of the Core Network (CN) with OAI-CN is required. Likewise, for the implementation of the network, the use of a Software Defined Radio Device (USRP) is necessary for the implementation of a prototype network that allows the analysis of different parameters, all with a Radio Frequency (RF) architecture that is designed by Software Defined Networks (SDN).
 
-# Red-5G-NSA con mosaic5g
-
 ![image](https://user-images.githubusercontent.com/47339991/227731955-bed4425a-b414-49d7-9737-3b5ce0ec3080.png)
