@@ -1,3 +1,5 @@
+Go to this [Wiki](https://github.com/SantiagoBH/5G-NSA-Network-with-Mosaic5g/wiki) to get all information!
+
 # 5G NSA Network with Mosaic5g
 Currently, there has been a significant increase in consumption of video streaming entertainment services, either due to the ease of choosing any type of series or movie on an electronic device that has an internet connection, or because of the various platforms that have been created in recent years with different proposals. However, data traffic has been increasing, negatively affecting network performance due to this high consumption of high-quality services. With the deployment of next-generation networks (5G), the development of mobile network deployments through open source code has been encouraged.
 
